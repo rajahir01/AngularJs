@@ -1,4 +1,15 @@
-<div style="text-align:center">
-  <h1>From AppComponent</h1>
+<div style="text-align: center;">
+<h2>
+  Routing and Navigation
+</h2>
+<!-- <nav>
+  <a routerLink=='/department' routerLinkActive="active">Department</a>
+  <a routerLink='/employee'  routerLinkActive="active">Employee</a>
+</nav> -->
 </div>
-<app-test [parentData]="name"></app-test>
+<nav>
+  <a routerLink="/department" routerLinkActive="active">Department</a>
+  <a routerLink="/employee"  routerLinkActive="active">Employee</a>
+</nav>
+
+<router-outlet></router-outlet>
