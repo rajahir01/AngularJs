@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 18,
+      "firstname": "rajahirwar38@gmail.com",
+      "lastname": "rajahirwar38@gmail.com",
+      "phone": "06397905614",
+      "salary": "23$"
+    },
+    {
+      "id": 19,
+      "firstname": "a",
+      "lastname": "b",
+      "phone": "d",
+      "salary": "e"
+    },
+    {
+      "id": 20,
+      "firstname": "raj",
+      "lastname": "ahirwar",
+      "phone": "06397905614",
+      "salary": "0"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
